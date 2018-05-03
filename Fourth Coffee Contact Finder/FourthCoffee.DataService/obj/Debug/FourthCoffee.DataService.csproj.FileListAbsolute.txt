@@ -1,0 +1,10 @@
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.DataService\bin\FourthCoffee.DataService.dll.config
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.DataService\bin\FourthCoffee.DataService.dll
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.DataService\bin\FourthCoffee.DataService.pdb
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.DataService\bin\FourthCoffee.Infrastructure.dll
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.DataService\bin\FourthCoffee.Infrastructure.pdb
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.DataService\obj\Debug\FourthCoffee.DataService.csprojResolveAssemblyReference.cache
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.DataService\obj\Debug\FourthCoffee.DataService.csproj.CoreCompileInputs.cache
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.DataService\obj\Debug\FourthCoffee.DataService.csproj.CopyComplete
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.DataService\obj\Debug\FourthCoffee.DataService.dll
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.DataService\obj\Debug\FourthCoffee.DataService.pdb

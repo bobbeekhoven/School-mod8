@@ -1,0 +1,6 @@
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.Infrastructure\bin\Debug\FourthCoffee.Infrastructure.dll
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.Infrastructure\bin\Debug\FourthCoffee.Infrastructure.pdb
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.Infrastructure\obj\Debug\FourthCoffee.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.Infrastructure\obj\Debug\FourthCoffee.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.Infrastructure\obj\Debug\FourthCoffee.Infrastructure.dll
+C:\Program Files\Microsoft Learning\20483\Allfiles\Mod08\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.Infrastructure\obj\Debug\FourthCoffee.Infrastructure.pdb
